@@ -31,7 +31,7 @@ pip install requests
 In order to make the testing of the software as painless as possible, a *batteries included* docker image has been prepared.
 You can fetch it and running it using these commands:
 ```bash
-docker pull nivox\tlapi
+docker pull nivox/tlapi
 docker run -p 8080:8080 nivox/tlap
 ````
 
